@@ -1,0 +1,8 @@
+apiVersion: v2
+name: console-website
+description: openFuyao console website
+type: application
+version: 0.15.0
+appVersion: v25.09
+keywords: ["openfuyao-component"]
+dependencies: []
